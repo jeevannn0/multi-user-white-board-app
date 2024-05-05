@@ -1,5 +1,11 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+
+
+Screenshot :
+
+![image](https://github.com/jeevannn0/multi-user-white-board-app/assets/106665124/e45fe2cd-9316-469f-9084-fdf5f29fb220)
+
 ## Getting Started
 
 First, run the development server:
