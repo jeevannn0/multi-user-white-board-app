@@ -1,14 +1,10 @@
-![image](https://github.com/jeevannn0/multi-user-white-board-app/assets/106665124/7f72a4bb-55f1-4369-979e-8b62e74bebfd)This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 
 
 Screenshot :
 
-
-
-![image](https://github.com/jeevannn0/multi-user-white-board-app/assets/106665124/e45fe2cd-9316-469f-9084-fdf5f29fb220)
-
-![image](https://github.com/jeevannn0/multi-user-white-board-app/assets/106665124/795a9d03-287d-4759-9dfc-562e5d9dfd3f)
+https://cdn.hashnode.com/res/hashnode/image/upload/v1697814643105/163d1927-b841-494a-947f-edae80f50dee.gif?auto=format,compress&gif-q=60&format=webm
 
 
 ## Getting Started
