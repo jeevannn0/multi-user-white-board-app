@@ -4,7 +4,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 Screenshot :
 
-https://cdn.hashnode.com/res/hashnode/image/upload/v1697814643105/163d1927-b841-494a-947f-edae80f50dee.gif?auto=format,compress&gif-q=60&format=webm
+
+
+![image](https://cdn.hashnode.com/res/hashnode/image/upload/v1697814643105/163d1927-b841-494a-947f-edae80f50dee.gif?auto=format,compress&gif-q=60&format=webm)
 
 
 ## Getting Started
